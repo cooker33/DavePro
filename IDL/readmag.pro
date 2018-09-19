@@ -1,0 +1,6 @@
+pro readmag
+
+
+
+stop
+end
